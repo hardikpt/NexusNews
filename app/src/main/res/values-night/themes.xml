@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="Theme.NexusNews" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- primary brand. -->
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="colorPrimaryVariant">@color/my_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand. -->
+
+        <item name="colorSecondary">@color/my_secondary</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- status bar color . -->
+
+        <item name="android:statusBarColor">@color/my_primary</item>
+    </style>
+</resources>
